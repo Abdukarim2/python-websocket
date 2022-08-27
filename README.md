@@ -10,3 +10,7 @@
 < hello
 > your message reversed from server hello
 ```
+```
+js
+const socket = new WebSocket('ws://localhost:8000');
+```
